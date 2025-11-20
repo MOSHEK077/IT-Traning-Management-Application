@@ -91,7 +91,7 @@ IT-Training-Center-Management/
 
 ## 🔗 **GitHub Link**
 
-**Repository:** [https://github.com/yourusername/it-training-center-management](https://github.com/yourusername/it-training-center-management)
+[**Repository:** [https://github.com/yourusername/it-training-center-management](https://github.com/MOSHEK077/IT-Traning-Management-Application/tree/main)
 
 ---
 
